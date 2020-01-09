@@ -64,7 +64,7 @@
     "grunt-wiredep": "~1.7.0",
     "jshint-stylish": "~0.2.0",
     "karma": "^1.7.1",
-    "karma-jasmine": "~0.1.5",
+    "karma-jasmine": "~3.0.3",
     "karma-ng-html2js-preprocessor": "~0.1.0",
     "karma-phantomjs-launcher": "^1.0.4",
     "load-grunt-tasks": "~3.5.2",
